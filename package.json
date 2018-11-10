@@ -1,0 +1,24 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "description": "a self-paced way of learning javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlivierJM/learn-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "learning",
+    "basics"
+  ],
+  "author": "OlivierJM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlivierJM/learn-js/issues"
+  },
+  "homepage": "https://github.com/OlivierJM/learn-js#readme"
+}
