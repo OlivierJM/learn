@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/OlivierJM/learn-js/issues"
   },
-  "homepage": "https://github.com/OlivierJM/learn-js#readme"
+  "homepage": "https://github.com/OlivierJM/learn-js#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
