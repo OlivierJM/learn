@@ -4,7 +4,7 @@
   "description": "a self-paced way of learning javascript",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,11 @@
   },
   "homepage": "https://github.com/OlivierJM/learn-js#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "@babel/core": "^7.1.5",
+    "babel-core": "^7.0.0-bridge.0",
+    "@babel/preset-env": "*",
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.12.1"
   }
 }
