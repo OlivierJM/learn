@@ -101,4 +101,8 @@ To Keep your fork up to date, do the following
 
 After making changes on a specific branch, push your changes  
 
-`git push origin your_branch_name`
+`git push origin your_branch_name` 
+
+Then create a Pull Request from here, we will take a look at it and merge it as soon as we can. 
+
+ 
