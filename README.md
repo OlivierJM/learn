@@ -31,6 +31,44 @@ when you are done in each file run the test to check if you have done It correct
 ### Structure order 
 
 The following is the structure in the way it should be followed by a beginner
+```bash
+```bash
+
+├── intro
+│   └── intro.js
+├── datatypes
+│   ├── datatypes.js
+│   └── datatypes.test.js
+├── variables
+│   ├── variable.test.js
+│   └── variables.js
+├── operators
+│   ├── operators.js
+│   └── operators.test.js
+├── arrays
+│   ├── arrays.js
+│   └── arrays.test.js
+├── condititios
+│   ├── condition.js
+│   └── condition.test.js
+├── loops
+│   ├── loops.js
+│   └── loops.test.js
+├── objects
+│   ├── objects.js
+│   └── objects.test.js
+├── functions
+│   ├── functions.js
+│   └── functions.test.js
+├── prototypes
+│   ├── inheritance.js
+│   └── inheritance.test.js
+├── ES6-ES8
+│   ├── es-future.js
+│   └── es-future.test.js
+├── DOM
+
+```
 
 
 ### For Contributors 
