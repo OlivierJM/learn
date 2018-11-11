@@ -32,7 +32,6 @@ when you are done in each file run the test to check if you have done It correct
 
 The following is the structure in the way it should be followed by a beginner
 ```bash
-```bash
 
 ├── intro
 │   └── intro.js
