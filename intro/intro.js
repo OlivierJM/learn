@@ -60,5 +60,3 @@
  * Next : DATATYPES
 */
 
-
-

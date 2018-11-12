@@ -74,3 +74,34 @@ The following is the structure in the way it should be followed by a beginner
 
 Fork this repo and check for issues and see which ones you can work on, you are also welcome to create issues where you see necessary.
 When you start working on a specific issue kindly assign it to yourself for clearance's sake.
+
+#### Good Setup to first time contributors  
+
+check for the issues that are labeled `good-first-issue` or `help-wanted`
+
+Fork the repo and Clone the forked repo
+
+`git clone https://github.com/your-github-username/learn-js` 
+
+Set up the remote version
+
+`git remote add upstream https://github.com/OlivierJM/learn-js` 
+
+verify that you have added and you have 2 remotes
+
+`git remote -v`
+
+- **origin** should point to your fork
+- **upstream** should point to this repo
+
+To Keep your fork up to date, do the following   
+
+`git pull upstream master` 
+
+After making changes on a specific branch, push your changes  
+
+`git push origin your_branch_name` 
+
+Then create a Pull Request from here, we will take a look at it and merge it as soon as we can. 
+
+ 
