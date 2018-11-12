@@ -1,0 +1,3 @@
+/**
+ * TYPES OF VARIABLES
+ */
