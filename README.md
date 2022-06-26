@@ -4,9 +4,23 @@ This repo is aimed at helping beginners learn the basics of `Javascript`  by rea
 
 You are welcome to create an issue, if you have a question regarding what you are currently learning.
 
+Questions and Comments, You can use [discussions here](https://github.com/OlivierJM/learn/discussions)
+
+Introduction to Programming
+
+- [Introduction to Computers and Programming](https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf)
+- [A Gentler Introduction to Programming](https://www.freecodecamp.org/news/a-gentler-introduction-to-programming-1f57383a1b2c/)
+- [Technical details for web application](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+
+Introduction to HTML
+
+- [MDN Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [Intoduction to HTML & CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+
+
 ### How to use learn-js
 
-To get best out of learn-js, you will need to clone the repo, install the dependencies (`babel` and `jest`) . 
+To get best out of learn-js, you will need to clone the repo, install the dependencies (`babel` and `jest`) .
 
 ### Requirements
 - Nodejs ˆ8.10
@@ -14,21 +28,21 @@ To get best out of learn-js, you will need to clone the repo, install the depend
 - Access to a terminal
 - Being able to read English
 
-### Get Started 
- Start by cloning this repo 
- 
-`git clone https://github.com/OlivierJM/learn-js.git` 
+### Get Started
+ Start by cloning this repo
 
-`cd learn-js` 
+`git clone https://github.com/OlivierJM/learn-js.git`
+
+`cd learn-js`
 
 `yarn` or `npm install`
 
-If you are starting from the beginning, follow the order mentioned **here** 
+If you are starting from the beginning, follow the order mentioned **here**
 when you are done in each file run the test to check if you have done It correctly.
-`yarn run test` or 	`npm run test` 
+`yarn run test` or 	`npm run test`
 
 
-### Structure order 
+### Structure order
 
 The following is the structure in the way it should be followed by a beginner
 ```bash
@@ -69,23 +83,22 @@ The following is the structure in the way it should be followed by a beginner
 
 ```
 
-
-### For Contributors 
+### For Contributors
 
 Fork this repo and check for issues and see which ones you can work on, you are also welcome to create issues where you see necessary.
 When you start working on a specific issue kindly assign it to yourself for clearance's sake.
 
-#### Good Setup to first time contributors  
+#### Good Setup to first time contributors
 
 check for the issues that are labeled `good-first-issue` or `help-wanted`
 
 Fork the repo and Clone the forked repo
 
-`git clone https://github.com/your-github-username/learn-js` 
+`git clone https://github.com/your-github-username/learn-js`
 
 Set up the remote version
 
-`git remote add upstream https://github.com/OlivierJM/learn-js` 
+`git remote add upstream https://github.com/OlivierJM/learn-js`
 
 verify that you have added and you have 2 remotes
 
@@ -94,15 +107,15 @@ verify that you have added and you have 2 remotes
 - **origin** should point to your fork
 - **upstream** should point to this repo
 
-To Keep your fork up to date, do the following and make sure you do it everytime you want to push      
+To Keep your fork up to date, do the following and make sure you do it everytime you want to push
 
-`git pull upstream master` 
+`git pull upstream master`
 
-After making changes on a specific branch, push your changes  
+After making changes on a specific branch, push your changes
 Always remember to create a specific branch that describes the issue you are working, and create a pull-request against the master of thisrepo.
 
-`git push origin your_branch_name` 
+`git push origin your_branch_name`
 
-Then create a Pull Request from here, we will take a look at it and merge it as soon as we can. 
+Then create a Pull Request from here, we will take a look at it and merge it as soon as we can.
 
- 
+
