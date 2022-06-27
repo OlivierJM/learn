@@ -1,6 +1,6 @@
 ## Learn
 
-This repo is aimed at helping beginners learn the basics of `Javascript`  by reading and following the given examples.
+This repo is aimed at helping beginners learn the basics of Programming  by reading and following the given examples.
 
 You are welcome to create an issue, if you have a question regarding what you are currently learning.
 
