@@ -1,4 +1,4 @@
-## learn-js
+## Learn
 
 This repo is aimed at helping beginners learn the basics of `Javascript`  by reading and following the given examples.
 
