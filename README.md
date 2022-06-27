@@ -11,12 +11,25 @@ Introduction to Programming
 - [Introduction to Computers and Programming](https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf)
 - [A Gentler Introduction to Programming](https://www.freecodecamp.org/news/a-gentler-introduction-to-programming-1f57383a1b2c/)
 - [Technical details for web application](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+- Learning to code https://medium.com/swlh/learning-to-code-45f7e1657c1e
+- Naming https://dmitripavlutin.com/coding-like-shakespeare-practical-function-naming-conventions/
+- Lazy https://exceptionnotfound.net/be-the-laziest-programmer-you-can-be/
+- Functions https://zellwk.com/blog/js-functions/
+- Front-end developer handbook https://frontendmasters.com/books/front-end-handbook/2019/#1 (Very important)
+- List of Hand picked Javascript reading materials https://github.com/twhite96/js-dev-reads/blob/master/README.md
+
 
 Introduction to HTML
 
 - [MDN Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [Intoduction to HTML & CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 
+
+Introduction to Github
+
+- Github Skills https://skills.github.com/
+- Git and Github https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+- Introduction to Git https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/ 
 
 ### How to use learn-js
 
